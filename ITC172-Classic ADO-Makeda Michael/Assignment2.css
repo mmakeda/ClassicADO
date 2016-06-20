@@ -1,12 +1,12 @@
 ﻿body { 
-  font-family:Verdana, Geneva, Tahoma, sans-serif; 
+  font-family:Garamond, Times , Arapey, serif; 
  font-size:medium; 
  } 
 
  
  h1{ 
     width:40%; 
-    color:darkolivegreen; 
+    color: #6600cc; 
  
  
  } 
@@ -24,14 +24,14 @@ table{
 
  
 tbody tr th{ 
-     background-color:darkolivegreen; 
+     background-color:#7A2DB5; 
     color:white; 
-     border:solid 2px darkgrey; 
+     border:solid 2px #8E8C8F; 
      padding: 10px;
  } 
 
  
  table tr td{ 
-     border:solid 2px darkgrey; 
+     border:solid 2px #8E8C8F; 
     padding:4px 4px 4px 4px; 
  } 
